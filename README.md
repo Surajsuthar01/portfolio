@@ -1,6 +1,4 @@
-# hello ......
-
-## Suraj Suthar
+# Suraj Suthar
 
 **URL**:  https://portfolio-suraj-suthars-projects.vercel.app/
 
